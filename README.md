@@ -1,12 +1,5 @@
 # Hi there 👋 I am Bahir Barak
 
-<p align="center">
-<a href="https://www.linkedin.com/in/douglas-drf"><img src="https://img.shields.io/badge/-Douglas%20Ferreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/drfdouglas/"><img src="https://img.shields.io/badge/-@drfdouglas-333333?style=flat-square&logo=instagram"/></a>
-<a href="https://discord.com/users/703745014953672744"><img src="https://img.shields.io/badge/-SneakyJaguar%239622-333333?style=flat-square&logo=discord"/></a>
-<a href="https://steamcommunity.com/id/douglasdrf/"><img src="https://img.shields.io/badge/-DouglasDRF-333333?style=flat-square&logo=steam"/></a>
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=douglasdrf&label=Douglas's%20Profile%20Views&color=135429&style=flat"/> </p>
 
 ## About Me 
 
@@ -15,6 +8,7 @@
 ## Tech Knowdledge
 
 ### Languages
+  ![Java](https://java.com/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
