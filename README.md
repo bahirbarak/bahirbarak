@@ -18,7 +18,7 @@
  ![Angular](https://img.shields.io/badge/Angular-%20-critical)
  ![Laravel](https://img.shields.io/badge/Laravel-%20-yellow)
  ![Nova](https://img.shields.io/badge/Nova-%20-white)
- ![ReactJs](https://img.shields.io/badge/ReactJs-%20-lightgrey)
+ ![ReactJs](https://img.shields.io/badge/ReactJs-%20-lightgrey?style=flat&logo=react)
  ![Django](https://img.shields.io/badge/Django-%20-yellowgreen)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
    
