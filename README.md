@@ -45,8 +45,8 @@
 
 <p align="center">
 <a href="https://github.com/bahirbarak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bahirbarak&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bahirbarak&theme=merko&layout=compact&langs_count=20&exclude_repo=gamebase" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bahirbarak&count_private=true&count_public=true&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/langs/?username=bahirbarak&theme=merko&layout=compact&langs_count=20&exclude_repo=gamebase" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bahirbarak&theme=merko"/>
 </a>
 </p>
