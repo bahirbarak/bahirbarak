@@ -6,7 +6,7 @@
 
 ### Languages
   ![Java](https://img.shields.io/badge/Java-%20-red?style=flat&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python?style=flat&logo=pytho)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Php](https://img.shields.io/badge/php-%20-blue?style=flat&logo=php)
   ![Ruby](https://img.shields.io/badge/Ruby-%20-blue?style=flat&logo=ruby)
@@ -37,7 +37,7 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
   ![Linux](https://img.shields.io/badge/linux-%20-red?style=flat&logo=linux)
-  ![Chrome DevTools](https://img.shields.io/badge/ChromeDevTools-%20-brightgreen?style=flat&logo=chrome)
+  ![Chrome DevTools](https://img.shields.io/badge/ChromeDevTools-%20-brightgreen?style=flat&logo=googlechrome)
 
 
 
