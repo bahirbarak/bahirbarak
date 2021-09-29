@@ -2,14 +2,15 @@
 
 
 
-## Tech Knowdledge
+## Technologies
 
 ### Languages
   ![Java](https://img.shields.io/badge/Java-%20-red?style=flat&logo=java)
-  ![Php](https://img.shields.io/badge/php-%20-blue?style=flat&logo=php)
-  ![Ruby](https://img.shields.io/badge/Ruby-%20-blue?style=flat&logo=ruby)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python?style=flat&logo=pytho)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Php](https://img.shields.io/badge/php-%20-blue?style=flat&logo=php)
+  ![Ruby](https://img.shields.io/badge/Ruby-%20-blue?style=flat&logo=ruby)
+  
   
   
 ### Libraries and Frameworks
@@ -28,6 +29,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%20-blue?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%20-brightgreen?style=flat&logo=mongodb)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
 
 ### Enviroment, IDEs and Tools
