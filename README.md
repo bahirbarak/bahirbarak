@@ -37,6 +37,7 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
   ![Linux](https://img.shields.io/badge/linux-%20-red?style=flat&logo=linux)
+  ![Chrome DevTools](https://img.shields.io/badge/ChromeDevTools-%20-brightgreen?style=flat&logo=chrome)
 
 
 
