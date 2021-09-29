@@ -1,14 +1,11 @@
 # Hi there 👋 I am Bahir Barak
 
 
-## About Me 
-
-</br>
 
 ## Tech Knowdledge
 
 ### Languages
-  ![Java](https://java.com/-Java-333333?style=flat&logo=java)
+  ![Java](https://img.shields.io/badge/Java-%20-red)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
@@ -28,32 +25,5 @@
   ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
   ![Linux]
 
-</br>
 
-## Technologies I'm interested to learn more 
-
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=42bff5)
-
- 
-</br>
-
-## GitHub Analytics 
-
-
-
-
-<!--
-**BahirBarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
