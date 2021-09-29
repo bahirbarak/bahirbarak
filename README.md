@@ -27,6 +27,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%20-blue?style=flat&logo=postgresql)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
 
 ### Enviroment, IDEs and Tools
