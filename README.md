@@ -1,6 +1,7 @@
 # Hi there 👋 I am Bahir Barak
 
-
+# About Me
+Senior Software Developer, with more than 5 years experiance in Backend and Frontend Technologies
 
 ## Technologies
 
@@ -50,7 +51,5 @@
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bahirbarak&theme=merko"/>
 </a>
 </p>
-
-![Bahir’ GitHub stats](https://github-readme-stats.vercel.app/api?username=bahirbarak&theme=synthwave&show_icons=true&count_private=true “Bahir Barak’ GutHub Stats”)
 
 
