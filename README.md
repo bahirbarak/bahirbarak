@@ -2,6 +2,8 @@
 
 # About Me
 Senior Software Developer, with more than 5 years experiance in Backend and Frontend Technologies
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bahir-barakzai-7a14b0198/)
+
 
 ## Technologies
 
