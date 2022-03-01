@@ -23,7 +23,6 @@ Senior Software Developer, with more than 5 years experiance in Backend and Fron
  ![Angular](https://img.shields.io/badge/Angular-%20-critical?style=flat&logo=angular)
  ![Laravel](https://img.shields.io/badge/Laravel-%20-yellow?style=flat&logo=laravel)
  ![Nova](https://img.shields.io/badge/Nova-%20-white?style=flat&logo=laravelnova)
- ![ReactJs](https://img.shields.io/badge/ReactJs-%20-lightgrey?style=flat&logo=react)
  ![Django](https://img.shields.io/badge/Django-%20-yellowgreen?style=flat&logo=django)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
    
