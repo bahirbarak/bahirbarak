@@ -2,7 +2,7 @@
 
 # About Me
 ## Senior Software Engineer,
-Welcome to my GitHub repository! I am Mohammad Bahir Barak, a seasoned software engineer with over 7 years of expertise in crafting innovative solutions and delivering top-tier software products. My passion lies in the realm of cutting-edge technologies and my diverse skill set spans multiple programming languages, including Java, Python, Node.js, and Angular</br>
+Welcome to my GitHub repository! I am Mohammad Bahir Barak, a seasoned software engineer with over 7 years of expertise in crafting innovative solutions and delivering top-tier software products. My passion lies in the realm of cutting-edge technologies and my diverse skill set spans multiple programming languages, including Java, Python, TypeScript, JavaScript, Ruby and Angular</br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bahir-barakzai-7a14b0198/)
 
 
